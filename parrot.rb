@@ -1,4 +1,5 @@
-def parrot 
+def parrot (string)
+   put
    return "Squawk!"
 end
 
