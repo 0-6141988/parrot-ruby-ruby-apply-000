@@ -1,5 +1,5 @@
 def #parrot 
-   put "Squawk!"
+   puts "Squawk!"
 
 
 
