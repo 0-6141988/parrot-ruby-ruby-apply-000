@@ -1,6 +1,6 @@
-def parrot (string)
-   puts "Squawk!"
-   return "Squawk!"
+def parrot (string= "Squawk!")
+   puts string 
+   return string
 end
 
 
